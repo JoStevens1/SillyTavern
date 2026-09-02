@@ -1,0 +1,8 @@
+{
+    "display_name": "Railway Keepalive",
+    "loading_order": 100,
+    "js": "index.js",
+    "author": "reimu",
+    "version": "1.0.0",
+    "auto_update": false
+}
